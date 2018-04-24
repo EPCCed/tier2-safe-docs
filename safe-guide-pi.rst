@@ -108,7 +108,7 @@ Login to SAFE. Then:
 #. Go to the Menu *Projects managed* and select the *project* you wish
    to work on.
 #. Under *Project groups* you can see the current state of each project.
-   If SAFE administers disk quotas on a system, you will alsosee these, together
+   If SAFE administers disk quotas on a system, you will also see these, together
    with how much of is in use.
 
 If a project group's use of a quota is getting close to the maximum, it
