@@ -146,7 +146,7 @@ For some of these packages, such as VASP, you can request access via SAFE
 #. If you are covered by the license because the licence holder is your supervisor, for example, please state this.
 #. Click *Submit*
 
-Your request will then be processed by the appropriate support team who will confirm your license with the approriate authority before enabling your access to the package. This can take several days but you will be advised once this has been done.
+Your request will then be processed by the appropriate support team who will confirm your license with the appropriate authority before enabling your access to the package. This can take several days but you will be advised once this has been done.
 
 Tier-2 Facilities: Accounts, passwords
 --------------------------------------
