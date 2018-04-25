@@ -56,7 +56,7 @@ You can view and manage your period allocation via SAFE.
 
 You will then see the details of your allocation. *Please check them carefully to make sure you are looking at the correct one.* 
 
-- **Resource Pool (Cirrus). **
+- **Resource Pool (Cirrus).**
 - **Amount of CPUh**
 - **Dates** It is possible to have multiple successive period allocations, but they can never overlap if they are for the same resource pool. Before carrying out any project management tasks please check the dates and make sure you are managing the correct allocation. You can skip between the period allocations by clicking on the ">>>" (next period) and "<<<" (previous) buttons at the bottom of the page.
 
