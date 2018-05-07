@@ -11,8 +11,8 @@ Rendered Documentation
 ----------------------
 Two versions of the documentation are currently automatically built from this repository:
 
-* `Tier-2 SAFE Documentation (HTML) on ReadTheDocs <http://diracsafe.readthedocs.io/>`_
-* `Tier-2 SAFE Documentation (PDF) on ReadTheDocs <https://readthedocs.org/projects/diracsafe/downloads/pdf/latest/>`_
+* `Tier-2 SAFE Documentation (HTML) on ReadTheDocs <http://tier2-safe.readthedocs.io/>`_
+* `Tier-2 SAFE Documentation (PDF) on ReadTheDocs <https://readthedocs.org/projects/tier2-safe/downloads/pdf/latest/>`_
 
 How to Contribute
 -----------------
