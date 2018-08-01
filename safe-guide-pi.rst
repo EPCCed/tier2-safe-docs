@@ -69,8 +69,9 @@ Project groups can be used to administer time and other resources within your pr
 #.  `Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
 #.    Go to the Menu Projects managed and select the *project* you wish to create the group
 #.    This will display a screen with a variety of options for managing the project.
-#.     Click *Project Group Administration*
-#.     Click *Add new sub-group*
+#.     Click *Project Groups* to expand this section
+#.	Click on the first entry (which will match the project ID)
+#.     Click *Add new sub-group*  at the bottom of the section
 #.    This will take you to the screen for creating new project groups. Fill in a suffix to your project code in the box: for example, if your project code is t01, you might chose t01-a. Project group names cannot be more than eight characters in total.
 
 #. If this group is to be used for **guest budget** users, tick "Guest Budget".
