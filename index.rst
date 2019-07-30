@@ -11,6 +11,7 @@ The Tier-2 HPC facilities currently integrated into the SAFE service are:
 * `Cirrus <http://www.cirrus.ac.uk>`__ from `EPCC <http://www.epcc.ed.ac.uk>`__
 * Athena from `HPC Midlands+ <http://www.hpc-midlands-plus.ac.uk>`__
 * `Isambard <http://gw4.ac.uk/isambard/>`__ from `GW4 <http://gw4.ac.uk/>`__
+* `CSD3 <https://www.csd3.cam.ac.uk/high-performance-computing>`__ from `University of Cambridge Research Computing Services <https://www.hpc.cam.ac.uk>`__
 
 The Tier-2 SAFE service provides a common, web-based interface for managing 
 access and resources across the Tier-2 HPC services and allows for coherent 
